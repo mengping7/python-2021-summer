@@ -1,0 +1,22 @@
+'Open-source' software (OSS) is a type of computer software
+banana is my favorite food.
+American sports are played with the hands.
+Come on! Let's go.
+The AAAA battery is 42.5 mm long and 8.3 mm in diameter
+that accessories doesn't fit you.
+However, the accessories is about $495 dollars
+GNU is an extensive collection of computer software
+his watch is very beautiful.
+She will finish the job next week
+Oh! The cake taste good!
+car is expensive than bicycle
+this door is closed.
+# Add some extra indentation
+Although never is often better than *right* now
+Use 4 spaces per indentation level.
+My goddes!
+What made you want to look up No. 1?
+wildcard imports (from <module> import *) should be avoided
+I like cat.
+Each tool lets you search data from different countries.
+There are 159999997 people in the country
